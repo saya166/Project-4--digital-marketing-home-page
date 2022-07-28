@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Roboto:wght@300;400;500&family=Shadows+Into+Light&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  margin-left: 100px;
+}
+.navbar-container {
+  margin-top: 20px;
+  /* height: 10px; */
+}
+
+.logo {
+  float: left;
+  height: 40px;
+  width: 120px;
+  margin-left: 20px;
+  margin-top: 20px;
+  position: absolute;
+}
+.list {
+  margin-left: 200px;
+  margin-top: 23px;
+  position: absolute;
+  height: 40px;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-align: center;
+}
+.list li:first-child {
+  font-weight: bolder;
+  color: black;
+}
+li {
+  display: inline;
+  position: relative;
+  padding: 10px 20px;
+  display: block;
+  display: inline-block;
+  color: #6a6b6cd6;
+}
+.button-group {
+  float: right;
+  margin-top: 20px;
+  margin-right: 70px;
+}
+.nav-button {
+  position: relative;
+  padding: 5px;
+  height: 40px;
+  width: 100px;
+  color: white;
+  background-color: #276197;
+  border-color: #276197;
+  border-radius: 0.7rem;
+}
+.banner-container {
+  padding-top: 12%;
+}
+.heading-text {
+  font-size: 50px;
+  width: 300px;
+  font-family: "Roboto";
+  color: #0e1c28d6;
+}
+span {
+  color: #3076b7;
+}
+.description {
+  width: 300px;
+  margin-top: 10px;
+  color: #76787ad6;
+}
+.nav-button.btn {
+  margin-top: 50px;
+  width: 150px;
+  padding: 10px;
+}
+#img {
+  margin-left: 380px;
+  margin-top: -370px;
+}
+
+.img1 {
+  height: 480px;
+  width: 700px;
+}
