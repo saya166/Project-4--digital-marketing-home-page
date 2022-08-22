@@ -4,7 +4,7 @@
 
 ![Digital Marketing Home Page](./Digital%20Marketing%20Home%20Page.png)
 
-**[Click here](digital-marketing-home-page-saya.netlify.app) for the live demo of the webspage on [Netlify](https://www.netlify.com/).**
+**[Click here](digital-marketing-home-page-saya.netlify.app) for the live demo of the webpage on [Netlify](https://www.netlify.com/).**
 
 ## Key Features
 
